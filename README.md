@@ -2,7 +2,7 @@
 
 I'm an automation & SCADA engineer based in the French Alps. I'm only getting started with GitHub. 😄
 
-👉 [My resume](https://nicoff-dev.github.io/resume) 
+👉 [My resume](https://nicohoff.github.io/resume/?link=https://nicohoff.github.io//&current=https://github.com/nicohoff)
 
 ## 🏭 Industrial Tech Stack
 
