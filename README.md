@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm an automation & SCADA engineer based in the French Alps. I'm only getting started with GitHub. 😄
+I'm an industrial automation & SCADA engineer based in the French Alps. I'm only getting started with GitHub. 😄
 
 ## 📄 My resume
 
